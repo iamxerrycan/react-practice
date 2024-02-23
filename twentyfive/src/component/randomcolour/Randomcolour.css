@@ -1,0 +1,19 @@
+.buttonrandom{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(200, 200, 200);
+    height: auto;
+
+}
+
+.buttonrandom button{
+    gap: 10px;
+    height: 40px;
+    margin: 5px;
+    width: 100px;
+    padding: 5px;
+    border-style: none;
+    border-radius: 5px;
+    background-color: rgb(176, 59, 235);
+}

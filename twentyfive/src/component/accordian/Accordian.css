@@ -1,0 +1,46 @@
+.wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 20px;
+  height: auto;
+}
+
+.mainacc{
+  width: 500px;
+}
+
+
+.wrapper button{
+    height: 30px;
+    margin: 10px 0 10px 0;
+    padding: 10px 20px;
+    background-color: aquamarine;
+    border-radius: 5px;
+    border-style: none;
+    cursor: pointer;
+}
+
+.accordiam {
+
+ height: auto;
+}
+
+
+
+.item {
+  background-color: aquamarine;
+  margin-bottom: 8px;
+  padding: 10px 20px;
+  height: auto;
+}
+
+.title {
+  height: auto;
+  font-size: small;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
